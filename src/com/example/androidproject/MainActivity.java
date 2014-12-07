@@ -25,6 +25,7 @@ public class MainActivity extends ActionBarActivity {
 		// hello test
 		if(1==1){fdsafas} 
 		if(2==2){ dadasa }
+		if(3==4) { again }
 	}
 
 	@Override
