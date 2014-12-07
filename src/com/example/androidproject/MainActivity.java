@@ -23,6 +23,7 @@ public class MainActivity extends ActionBarActivity {
 		}
 		
 		// hello test
+		if(1==1){fdsafas} 
 	}
 
 	@Override
